@@ -4,7 +4,7 @@
 		<tr>
 			<td width="23" rowspan="2">&nbsp;</td>
 			<td height="119" colspan="2" bgcolor="#006600">
-				<h1><center><font color="#FFFFFF">อรอพาร์ตเมนท์</font></center></h1>
+				<h1><center><font color="#FFFFFF">แบมส์บี้อพาร์ตเมนท์</font></center></h1>
 				<?php include "Date.php";?>
 			</td>
 			<td width="43" rowspan="2">&nbsp;</td>
